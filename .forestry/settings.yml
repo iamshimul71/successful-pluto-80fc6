@@ -7,7 +7,6 @@ sections:
 - type: document
   path: hello
   label: shimul
-  match: "**/*"
   read_only: true
 upload_dir: uploads
 public_path: "/uploads"
